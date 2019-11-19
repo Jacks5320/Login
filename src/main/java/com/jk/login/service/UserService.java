@@ -59,7 +59,6 @@ public class UserService {
                 user.setUserId(user.getUserId());
                 result.setSuccess(true);
                 user = userMapper.findByUserName(user.getUserName());
-                System.out.println(user);
                 result.setDetail(user);
             }
         } catch (Exception e) {
