@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.jk.login.mapper.UserMapper">
+    <!--查找所有用户-->
+    <select id="findAll" resultType="User">
+        select * from user
+    </select>
+    <!--根据用户名查找用户-->
+    <select id="findByUserName" resultType="User">
+        select * from user where userName = #{userName}
+    </select>
+    <!--登录用户-->
+    <select id="loginUser" resultType="User">
+        select * from user where userName=#{userName} and userPassword = #{userPassword}
+    </select>
+    <!--注册用户-->
+    <insert id="registUser" parameterType="User">
+        insert into user(userName,userPassword,userEmail,userGrade) values (#{userName},#{userPassword},#{userEmail},3)
+    </insert>
+    <!--修改密码-->
+    <update id="updateUserPassword" parameterType="User">
+        update user set userPassword=#{userPassword} where userName=#{userName}
+    </update>
+</mapper>
