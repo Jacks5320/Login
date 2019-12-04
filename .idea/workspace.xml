@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="login:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3be20760-3274-4b79-9be6-cf17f9d43123" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\02_study\13_maven\00_maven" />
+        <option name="mavenHome" value="E:/02_study/13_maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\02_study\13_maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UTTeCacsKCC2uIS5fxZmH7Et5i" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LoginApplication">
+    <configuration name="LoginApplicationTests.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacks.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacks.login" />
+      <option name="MAIN_CLASS_NAME" value="com.jacks.login.LoginApplicationTests" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApplicationTests.testFindByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacks.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacks.login" />
+      <option name="MAIN_CLASS_NAME" value="com.jacks.login.LoginApplicationTests" />
+      <option name="METHOD_NAME" value="testFindByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApplicationTests.testFindPswByname" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacks.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacks.login" />
+      <option name="MAIN_CLASS_NAME" value="com.jacks.login.LoginApplicationTests" />
+      <option name="METHOD_NAME" value="testFindPswByname" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApplicationTests.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacks.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacks.login" />
+      <option name="MAIN_CLASS_NAME" value="com.jacks.login.LoginApplicationTests" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApplicationTests.testRegist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacks.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jacks.login" />
+      <option name="MAIN_CLASS_NAME" value="com.jacks.login.LoginApplicationTests" />
+      <option name="METHOD_NAME" value="testRegist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jacks.login.LoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginApplicationTests.testRegist" />
+        <item itemvalue="JUnit.LoginApplicationTests.testLogin" />
+        <item itemvalue="JUnit.LoginApplicationTests.testFindPswByname" />
+        <item itemvalue="JUnit.LoginApplicationTests.testFindAll" />
+        <item itemvalue="JUnit.LoginApplicationTests.testFindByName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3be20760-3274-4b79-9be6-cf17f9d43123" name="Default Changelist" comment="" />
+      <created>1575379679585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575379679585</updated>
+      <workItem from="1575379685818" duration="6205000" />
+      <workItem from="1575387031372" duration="1801000" />
+      <workItem from="1575388909867" duration="103000" />
+      <workItem from="1575389035408" duration="227000" />
+      <workItem from="1575389285576" duration="154000" />
+      <workItem from="1575389461217" duration="40000" />
+      <workItem from="1575422959922" duration="698000" />
+      <workItem from="1575435696926" duration="1284000" />
+      <workItem from="1575463633086" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
