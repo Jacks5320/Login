@@ -35,6 +35,8 @@ public class UserService {
             User userExist = userMapper.findByName(user.getUsername());
             if (user.getUsername().equals("")){
                 return "账户名不能为空";
+            }else if (user.getPassword().equals("")){
+                return "密码不能为空";
             }else if (userExist != null){
                 return "账户已经存在";
             }else {
